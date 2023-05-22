@@ -6,4 +6,5 @@
  What are you studing? 
  I am learning Artificial intelligence
  How about you?
- I am studying devOps. What are you studuing? 
+ I am studying devOps. 
+ Nice one.
