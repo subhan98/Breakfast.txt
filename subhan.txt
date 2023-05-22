@@ -4,5 +4,6 @@
  My study is going well.How is yours going ?
  Mine is going well too.
  What are you studing? 
- AI = Artificial intelligence
- How about you? 
+ I am learning Artificial intelligence
+ How about you?
+ I am studying devOps. 
