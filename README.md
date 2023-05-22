@@ -1,2 +1,2 @@
 # Breakfast.txt
-" Remove this"
+This is a pratice of Git
